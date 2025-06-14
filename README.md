@@ -9,8 +9,13 @@
 | **Trina Solar** Vertex S+ TSM-445NEG9R.28 445 Wp BFR | 445W | €82.00 | 1327.57 | 30y @ 84.0% | [Buy ↗](https://www.photovoltaik4all.de/trina-vertex-s-tsm-445neg9r.28-445-wp-doppelglas) |
 | **Luxor** ECO LINE N-Type Glas-Glas BiFacial M108 LX-440M (16BB) TOPCon | 440W | €89.00 | 1195.26 | 30y @ 87.0% | [Buy ↗](https://www.photovoltaik4all.de/luxor-eco-line-n-type-glas-glas-bifacial-m108-lx-440m-16bb-topcon) |
 | **Heckert Solar** NeMo® 3.0 120 M 380 Watt (MC4) | 380W | €68.00 | 1028.01 | 25y @ 80.0% | [Buy ↗](https://www.photovoltaik4all.de/heckert-solar-nemo-3-0-120-m-380) |
+| **GStar** MARS GSP6G60M-380BT | 360W | $89.99 | 972.21 | 30y @ 86.0% | [Buy ↗](https://www.santansolar.com/product/g-star-360w-120hc-bob-solar-panel/) |
 | **Heckert Solar** NeMo® 2.0 60 M 330 Watt (5BB) | 330W | €78.00 | 778.29 | 25y @ 80.0% | [Buy ↗](https://www.photovoltaik4all.de/heckert-solar-nemo-2-0-60m-330-wp-mono) |
 | **Meyer Burger** White 395 | 395W | €106.00 | 775.28 | 25y @ 92.0% | [Buy ↗](https://www.photovoltaik4all.de/heckert-solar-nemo-2-0-60m-330-wp-mono) |
+| **ALEXUS** ALEX-390~410-B-54-S | 400W | $145.00 | 552.79 | 25y @ 85.0% | [Buy ↗](https://www.santansolar.com/product/alexus-solar-400w-mono-solar-panel/) |
+| **ZNShine Solar** ZXM7-SH108-405/M | 405W | $247.00 | 313.99 | 25y @ 84.0% | [Buy ↗](https://www.gogreensolar.com/products/znshine-solar-405-watt-mono-108-cell-all-black) |
+| **SOLAR4AMERICA** S4AU-144S | 550W | $341.00 | 297.70 | 25y @ 80.0% | [Buy ↗](https://www.gogreensolar.com/products/solar4america-550w-solar-panel) |
+| **qcells** Q.PEAK-DUO-ML-G10+410 | 410W | $332.00 | 241.19 | 25y @ 86.0% | [Buy ↗](https://www.gogreensolar.com/products/znshine-solar-405-watt-mono-108-cell-all-black) |
 
 ## Methodology
 

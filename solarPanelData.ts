@@ -108,6 +108,67 @@ export const solarPanelData: SolarPanel[] = [
     ],
     storeUrl: 'https://www.photovoltaik4all.de/trina-vertex-s-tsm-455neg9r.28-455-wp-bfr-doppelglas'
   },
+  {
+    manufacturer: 'SOLAR4AMERICA',
+    model: 'S4AU-144S',
+    wp: 550,
+    price: 341,
+    currency: 'USD',
+    warranty: [
+      { year: 1, powerPercentage: 0.97 },
+      { year: 10, powerPercentage: 0.9 },
+      { year: 25, powerPercentage: 0.8 },
+    ],
+    storeUrl: 'https://www.gogreensolar.com/products/solar4america-550w-solar-panel'
+  },
+  {
+    manufacturer: 'ZNShine Solar',
+    model: 'ZXM7-SH108-405/M',
+    wp: 405,
+    price: 247,
+    currency: 'USD',
+    warranty: [
+      { year: 1, powerPercentage: 0.98 },
+      { year: 10, powerPercentage: 0.92 },
+      { year: 25, powerPercentage: 0.84 },
+    ],
+    storeUrl: 'https://www.gogreensolar.com/products/znshine-solar-405-watt-mono-108-cell-all-black'
+  },
+  {
+    manufacturer: 'qcells',
+    model: 'Q.PEAK-DUO-ML-G10+410',
+    wp: 410,
+    price: 332,
+    currency: 'USD',
+    warranty: [
+      { year: 1, powerPercentage: 0.98 },
+      { year: 10, powerPercentage: 0.935 },
+      { year: 25, powerPercentage: 0.86 },
+    ],
+    storeUrl: 'https://www.gogreensolar.com/products/znshine-solar-405-watt-mono-108-cell-all-black'
+  },
+  {
+    manufacturer: 'ALEXUS',
+    model: 'ALEX-390~410-B-54-S',
+    wp: 400,
+    price: 145,
+    currency: 'USD',
+    warranty: [
+      ...Array.from({ length: 25 }, (_, i) => ({year: i + 1, powerPercentage: 0.98 - (i * 0.0054167)})),
+    ],
+    storeUrl: 'https://www.santansolar.com/product/alexus-solar-400w-mono-solar-panel/'
+  },
+  {
+    manufacturer: 'GStar',
+    model: 'MARS GSP6G60M-380BT',
+    wp: 360,
+    price: 89.99,
+    currency: 'USD',
+    warranty: [
+      ...Array.from({ length: 30 }, (_, i) => ({year: i + 1, powerPercentage: 0.99 - (i * 0.0045)})),
+    ],
+    storeUrl: 'https://www.santansolar.com/product/g-star-360w-120hc-bob-solar-panel/'
+  },
 ].map(panel => ({
   ...panel,
   score: calculateScore(panel)
