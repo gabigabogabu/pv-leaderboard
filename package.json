@@ -1,0 +1,30 @@
+{
+  "name": "pv-leaderboard",
+  "version": "0.0.1",
+  "description": "*Ranked by Score*",
+  "main": "render.ts",
+  "scripts": {
+    "start": "ts-node render.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabigabogabu/pv-leaderboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabigabogabu/pv-leaderboard/issues"
+  },
+  "homepage": "https://github.com/gabigabogabu/pv-leaderboard#readme",
+  "dependencies": {
+    "axios": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2",
+    "@types/axios": "^0.9.36"
+  }
+}

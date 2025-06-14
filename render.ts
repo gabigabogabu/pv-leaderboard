@@ -1,5 +1,3 @@
-#!/usr/bin/env bun
-
 import { writeFileSync } from 'fs';
 import { solarPanelData, type SolarPanel } from './solarPanelData';
 
@@ -64,6 +62,4 @@ function main(): void {
   }
 }
 
-if (import.meta.main) {
-  main();
-} 
+main();
